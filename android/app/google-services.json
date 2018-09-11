@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48303519356",
+    "firebase_url": "https://commonwrite-c0be2.firebaseio.com",
+    "project_id": "commonwrite-c0be2",
+    "storage_bucket": "commonwrite-c0be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48303519356:android:4085bcfcdb2a8966",
+        "android_client_info": {
+          "package_name": "com.commonwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48303519356-ffagmtdb4gcu39q4a5ihihaa1gbg0tqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.commonwrite",
+            "certificate_hash": "eda6a109946badae879f35d51c46f2795d36082a"
+          }
+        },
+        {
+          "client_id": "48303519356-io6ol26bbb7vssc1p0fds3gjk7ms6cuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfmW2yYoaQlBSE-RrnMrcG2gc60CV1h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48303519356-io6ol26bbb7vssc1p0fds3gjk7ms6cuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
